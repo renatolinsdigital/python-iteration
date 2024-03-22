@@ -13,7 +13,7 @@ Iteration in Python is a crucial topic for programming in the language. Here, we
 7. [Comparing Lists and Strings](#7-comparing-lists-and-strings)
 8. [Understanding List Comprehensions](#8-understanding-list-comprehensions)
 9. [Iterators and Generators](#9-iterators-and-generators)
-10. [10.Adopting a Functional Approach with Common Iterable Methods](#10adopting-a-functional-approach-with-common-iterable-methods)
+10. [Adopting a Functional Approach with Common Iterable Methods](#10-adopting-a-functional-approach-with-common-iterable-methods)
 
 
 ### 1. Intro to Iterables, Lists and Arrays
@@ -485,7 +485,7 @@ Generator:
 
 ---
 
-### 10.Adopting a Functional Approach with Common Iterable Methods
+### 10. Adopting a Functional Approach with Common Iterable Methods
 
 Python provides powerful tools like `map()`, `filter()`, and `reduce()` for processing iterables efficiently. These methods align with functional programming principles, promoting clarity, immutability, and composability in code. Benefits are:
 
