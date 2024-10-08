@@ -4,17 +4,19 @@ Iteration in Python is a crucial topic for programming in the language. Here, we
 
 ## Table of Contents
 
-1. [Intro to Iterables, Lists and Arrays](#1-intro-to-iterables-lists-and-arrays)
-2. [Iterating Through Lists](#2-iterating-through-lists)
-3. [Iterating Through Arrays](#3-iterating-through-arrays)
-4. [Tuples Overview: A Structure Commonly Associated with Iterables](#4-tuples-overview-a-structure-commonly-associated-with-iterables)
-5. [Understanding enumerate() Better](#5-understanding-enumerate-better)
-6. [Understanding range() Better](#6-understanding-range-better)
-7. [Comparing Lists and Strings](#7-comparing-lists-and-strings)
-8. [Understanding List Comprehensions](#8-understanding-list-comprehensions)
-9. [Iterators and Generators](#9-iterators-and-generators)
-10. [Adopting a Functional Approach with Common Iterable Methods](#10-adopting-a-functional-approach-with-common-iterable-methods)
+- [1. Intro to Iterables, Lists and Arrays](#1-intro-to-iterables-lists-and-arrays)
+- [2. Iterating Through Lists](#2-iterating-through-lists)
+- [3. Iterating Through Arrays](#3-iterating-through-arrays)
+- [4. Tuples Overview: A Structure Commonly Associated with Iterables](#4-tuples-overview-a-structure-commonly-associated-with-iterables)
+- [5. Understanding enumerate() Better](#5-understanding-enumerate-better)
+- [6. Understanding range() Better](#6-understanding-range-better)
+- [7. Comparing Lists and Strings](#7-comparing-lists-and-strings)
+- [8. Understanding List Comprehensions](#8-understanding-list-comprehensions)
+- [9. Iterators and generators](#9-iterators-and-generators)
+- [10. Adopting a Functional Approach with Common Iterable Methods](#10-adopting-a-functional-approach-with-common-iterable-methods)
+- [Summary](#summary)
 
+---
 
 ### 1. Intro to Iterables, Lists and Arrays
 
@@ -561,7 +563,7 @@ In this example we define an `add()` function that takes two arguments and retur
 
 ---
 
-### In Summary
+### Summary
 
 1) Python iterables are objects allowing iteration over their elements, including lists, tuples, dictionaries, sets, and strings, simplifying data manipulation. Lists are mutable collections of mixed elements defined by square brackets. Arrays, managed with libraries like NumPy, are homogeneous and excel in numerical computations.
 
